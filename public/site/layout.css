@@ -1,0 +1,24 @@
+.box {
+	
+	width: 400px;
+	height: 300px;
+	background: #c0c0c0;
+}
+
+.areaLogin {
+ 			
+         width: 40vw;
+         height: 100vh;
+         background: #c0c0c0;
+         display: flex;
+         flex-direction: row;
+         justify-content: center;
+         align-items: center;
+}
+
+
+body {
+    margin: 0px;
+}
+
+
